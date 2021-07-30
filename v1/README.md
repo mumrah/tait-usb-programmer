@@ -19,3 +19,9 @@ Digi-Key part numbers.
 * R2: Any low value 1/8W resistor, possibly just a jumper wire
 * R1: 1kΩ 1/8W resistor
 * C4: 0.1µF ceramic capacitor, 56-1C10Z5U104M050B-ND
+
+# Images
+
+![IMG_2732](https://user-images.githubusercontent.com/55116/127586534-0822bafe-2f95-414d-ade5-28738eb700d9.jpg)
+
+![IMG_2733](https://user-images.githubusercontent.com/55116/127586550-b8a05c45-67fe-4ba2-9faa-c1edd262f2c6.jpg)
