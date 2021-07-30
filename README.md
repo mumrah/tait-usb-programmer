@@ -1,6 +1,6 @@
 # Tait TM8100 USB programming module
 
-Design files and documentation for Tait TM8100 USB programmer board. This board plugs into a Tait TM8100 series radio
+This board plugs into a Tait TM8100 series radio
 via the front panel db9 connector. It can then be programmed with a Windows PC (or virtual machine) using the Tait
 programming software. See [TARPN Tait documentation](http://tarpn.net/t/builder/tait_tm8105_notes/builders_radios_tait8105.html) 
 for more details.
