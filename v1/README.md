@@ -6,6 +6,8 @@ First working version. I assembled one with only C2, C3, Y1, and R2 aside from t
 
 C1, R1, and C4 can probably be omitted, but they are recommended per the datasheet.
 
+Due to low stock of the SOIC version, the next revision will use the SSOP package.
+
 # BOM
 
 Digi-Key part numbers.
