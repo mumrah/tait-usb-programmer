@@ -10,3 +10,11 @@ This is needed to invert the UART rx/tx signal levels as required by the Tait ra
 
 <img width="1027" alt="Screen Shot 2021-07-30 at 9 13 10 AM" src="https://user-images.githubusercontent.com/55116/127658022-1a494baf-c691-4a6c-842f-5ee45fdfba4d.png">
 
+
+# Action Shot
+
+Here is the v2 board in action, reading from a Tait TM8105
+
+https://user-images.githubusercontent.com/55116/129118886-56906c2b-b291-4ea8-aef9-7abf3eee217b.mov
+
+
