@@ -21,7 +21,7 @@ Digi-Key part numbers.
 
 # Images
 
-![IMG_2874](https://user-images.githubusercontent.com/55116/129461040-f2d5a4c8-b7dc-4b98-ae86-dcca640e8868.jpg)
+![IMG_2874](https://user-images.githubusercontent.com/55116/129461335-7b3303c5-9f0d-4593-8ff5-32d966935e9c.jpg)
 
+![IMG_2877](https://user-images.githubusercontent.com/55116/129461337-b77cb458-ae7a-41a6-b9cd-2d3405d1ca44.jpg)
 
-![IMG_2876](https://user-images.githubusercontent.com/55116/129461034-0db23151-2941-4a81-9cc3-f17076173a2e.jpg)
