@@ -20,3 +20,8 @@ Digi-Key part numbers.
 * RX, TX: any suitable 3mm or 5mm LED
 
 # Images
+
+![IMG_2874](https://user-images.githubusercontent.com/55116/129461040-f2d5a4c8-b7dc-4b98-ae86-dcca640e8868.jpg)
+
+
+![IMG_2876](https://user-images.githubusercontent.com/55116/129461034-0db23151-2941-4a81-9cc3-f17076173a2e.jpg)
